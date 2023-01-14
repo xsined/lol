@@ -1,0 +1,25 @@
+.footer {
+	background:  rgba(0, 0, 0, 0.8);
+	padding: 1.875rem 0;
+
+}
+.footer_container {
+	display: flex;
+	justify-content: space-between;
+	gap: 0.9375rem;
+	color: #e5e5e5;
+	line-height: 128.571429%;
+
+
+}
+.footer_text {
+	text-transform: uppercase;
+	font-weight: 700 ;
+
+}
+.footer_up {
+}
+
+.footer_up:hover{
+	text-decoration: underline;
+}
